@@ -24,5 +24,6 @@
   "dependencies": {
     "react-mixin": "^3.0.5",
     "react-timer-mixin": "^0.13.3"
+    "@react-native-community/viewpager": "^4.0.1",
   }
 }
