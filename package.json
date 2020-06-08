@@ -1,6 +1,6 @@
 {
   "name": "react-native-carousel-view-br",
-  "version": "0.5.2",
+  "version": "1.0.0",
   "description": "react-native carousel nakao",
   "main": "./src/carousel.js",
   "directories": {
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepublish": "./node_modules/.bin/eslint src && ./node_modules/.bin/flow"
   },
-  "author": "chilijung <chilijung@gmail.com> (http://lijung.com/)",
+  "author": "felipenakao",
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.24.1",
@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "react-mixin": "^3.0.5",
-    "react-timer-mixin": "^0.13.3"
-    "@react-native-community/viewpager": "^4.0.1",
+    "react-timer-mixin": "^0.13.3",
+    "@react-native-community/viewpager": "^4.0.1"
   }
 }
